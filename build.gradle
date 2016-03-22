@@ -13,7 +13,7 @@ repositories {
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
-group = "com.github.reactive-ros"
+group = "com.github.rhea-apps"
 version = 1.0
 
 dependencies {	   
